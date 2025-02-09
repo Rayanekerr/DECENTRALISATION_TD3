@@ -64,7 +64,8 @@ Les 4 modèles ont été évalués sur le dataset Iris, en utilisant un ensemble
 
 
 # Question 2
-![image](https://github.com/user-attachments/assets/71fbb305-eac9-4bbb-a18f-cee2c7255d05)
+![image](https://github.com/user-attachments/assets/f7dd2118-a859-43d1-91a4-3539dc68ed5b)
+
 
 Le modèle agrégé, basé sur un consensus des prédictions de 4 modèles distincts (Régression Logistique, Random Forest, SVM, et KNN), a obtenu une précision de 100% sur l'ensemble de test du dataset Iris.
 
@@ -106,7 +107,8 @@ Ce code interroge quatre modèles distincts (Régression Logistique, Random Fore
 
 #### **Résultats :**
 
-![image](https://github.com/user-attachments/assets/193d8eb1-cf04-4b27-a33c-669a156b2c2d)
+![image](https://github.com/user-attachments/assets/a6b781f1-46a0-494f-aec7-3e5547a96aef)
+
 ---
 
 #### **Interprétation :**
@@ -144,7 +146,8 @@ Implémenter un mécanisme de **Proof-of-Stake avec slashing**, où :
 ---
 
 ### **Résultats**
-![image](https://github.com/user-attachments/assets/9ef61e78-182f-4f59-8729-a2c8d4632c08)
+![image](https://github.com/user-attachments/assets/0392a4b6-c542-4f66-a160-eef4c6b2c38d)
+
 
 ---
 
